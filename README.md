@@ -1,16 +1,37 @@
 ## Hi there 👋
+# 个人简介
+## 👨‍💻 工作方向
+🔭 目前主导web3与人工智能领域项目开发，其中**AiNews**是核心旗舰产品。作为“新闻主动找人”理念的先行者，深度融合先进的自然语言处理（NLP）与智能推荐系统，致力于解决信息过载难题，重新定义全球个性化新闻消费模式。
 
-<!--
-**pengten/pengten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 合作愿景
+👯 寻找志同道合的个人与团队，期望与富有远见的伙伴在web3和人工智能领域携手合作。共同探索前沿技术、创新用户体验，拓展市场边界，创造更多价值。
 
-Here are some ideas to get you started:
+## 📮 联系渠道
+📫 欢迎交流合作，可通过以下方式联系我：
+- **微信**：hi_pengten
+- **邮箱**：pengt.cogo@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🧠 **AiNews**  
+#### 智能新闻推荐平台 | 重新定义信息获取方式  
+[点击体验](http://ainews.ownworld.world)
+<details>
+  
+**核心理念**  
+打破传统“人找新闻”的被动模式，让 **AI 驱动新闻主动匹配用户需求**，从根源解决信息过载与筛选难题。  
+
+**核心优势**  
+- 🧩 **自然语言理解**：基于 Transformer 架构，深度解析用户兴趣描述，实现超越关键词的语义级匹配  
+- 🎯 **95% 推荐准确率**：依托 NLP 深度学习算法，从 500+ 全球权威新闻源中精准筛选  
+- ⚡ **5分钟突发推送**：实时监控热点事件，极速传递关键信息  
+- 🌐 **多语言无缝切换**：中英文界面自由切换，全球视野本土化呈现  
+
+**目标用户**  
+科技从业者、投资人、知识工作者、媒体人等对信息质量与获取效率有高要求的专业群体。  
+
+**体验智能新闻，告别信息焦虑**  
+*让 AI 成为你的专属新闻助理*  
+</details>
+
+---
+
